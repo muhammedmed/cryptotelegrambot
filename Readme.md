@@ -94,10 +94,13 @@ EXCHANGE_RATE_API_KEY=your_key
 
 ---
 
-## 🧑‍💻 Author
+## 👤 Author
 
-Made with ❤️ by [Your Name](https://github.com/muhammedmed/cryptotelegrambot.git)
-Telegram: [@yourbot](https://t.me/kriptooalarmbot)
+This bot was developed by an independent developer and is open-source for anyone to use or contribute.
+
+Feel free to fork, star ⭐, and improve!
+
+Telegram Bot: [@kriptooalarmbot](https://t.me/kriptooalarmbot)
 
 ---
 
